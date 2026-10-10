@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "marcuslikesdih",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "Melrad.aternos.me",
+    "port": 63505,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
